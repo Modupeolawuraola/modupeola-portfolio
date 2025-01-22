@@ -26,7 +26,7 @@ git clone https://github.com/Modupeolawuraola/modupeola-portfolio
 ### Want to learn how to create a template like this ?
 
 ### Live Website
-Visit my portfolio at: https://modupeolawuraola.github.io/modupeola-portfolio/
+Visit my portfolio at: https://modupeolawuraola.github.io
 
 
 ## Features
